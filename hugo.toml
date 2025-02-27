@@ -1,8 +1,0 @@
-baseURL: https://persistenceisallyourneed.github.io
-languageCode: en-us
-params:
-  contact:
-    email: info@example.org
-    phone: +1 202-555-1212
-  subtitle: The Best Widgets on Earth
-title: My Site
